@@ -1,5 +1,5 @@
 # pyorbit
-Python wrapper for the Elara Orbit API
+Python wrapper for the Athera Orbit API
 
 ## Requirements
 requests
